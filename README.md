@@ -37,4 +37,4 @@ Values in columns R - AF are the expected points scored of *this* player taken i
 Team drafted according to projections and tool (described below)
   - Team Niu - https://fantasy.espn.com/football/league/standings?leagueId=1458708918
   - Click "PF" under **Season Stats** section to sort by points scored
-  - Currently 3rd in league of 10 in points scored
+  - Currently **1st** in league of 10 in points scored
