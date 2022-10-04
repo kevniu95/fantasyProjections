@@ -1,10 +1,14 @@
 # fantasyProjections
 
-## 1. My Projections vs ESPN
-As of 10/03/2022:
+## 1. My Projections Comparison
+As of 10/04/2022:
 
-1. My Projections R^2:      0.442
-2. ESPN Projections R^2:    0.480
+1. My Projections R^2:      0.459
+2. ESPN Projections R^2:    0.484
+3. Baseline R^2:            0.370
+
+- Baseline projections are regression based on average draft position alone
+
 
 ## 2. How projections are generated
 Run "src" files in the following order:
