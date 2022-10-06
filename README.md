@@ -1,5 +1,7 @@
 # fantasyProjections
 
+https://github.com/kevniu95/fantasyProjections
+
 ## 1. My Projections Comparison
 As of 10/04/2022:
 
