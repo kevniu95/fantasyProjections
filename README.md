@@ -3,11 +3,11 @@
 Source code available at:https://github.com/kevniu95/fantasyProjections
 
 ## 1. My Projections Comparison
-As of 11/09/2022:
+As of 11/29/2022:
 
-1. My Projections R^2:      0.547
-2. ESPN Projections R^2:    0.515
-3. Baseline R^2:            0.501 
+1. My Projections R^2:      0.546
+2. ESPN Projections R^2:    0.516
+3. Baseline R^2:            0.517 
 
 - Baseline projections are regression based on average draft position alone
 
